@@ -2,10 +2,6 @@
 
 Simple template to have JRuby application managed by maven.
 
-## Problems
-
-* dependencies duplicated in pom.xml & Gemfile => problem: --local used in bundler-maven-plugin
-
 ## Install
 
 Just clone this repository.
